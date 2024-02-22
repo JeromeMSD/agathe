@@ -13,7 +13,7 @@ Small python script to calculate white pixels proportion in an image from a blac
 > ```bash
 > python3 -m ensurepip --upgrade
 > ```
-> or `sudo apt install python3-pip` if you are in a Linux environment 
+> or `sudo apt install python3-pip` if you are in a Linux environment.
 
 ```bash
 pip install opencv-python
@@ -45,7 +45,7 @@ python3 agathe.py <path-to-image-to-test> <path-to-black-reference-image> <path-
 
 ### Default mode
 
-There is three images in this repostory to test the script. To use them you can use the `default` mode
+There is three images in this repostory to test the script. To use them you can use the `default` mode.
 
 ```sh
 python3 agathe.py default
