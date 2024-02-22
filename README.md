@@ -5,8 +5,12 @@ Small python script to calculate white pixels proportion in an image from a blac
 
 ## Requirements
 
+> [!WARNING]
+> You need **python3** and **pip** to run this script.
+> 
+> You can install pip with `python3 -m ensurepip --upgrade` or `sudo apt install python3-pip`
+
 ```bash
-python3 -m ensurepip --upgrade
 pip install cv2
 pip install numpy
 ```
