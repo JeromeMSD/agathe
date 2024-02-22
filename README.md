@@ -11,7 +11,7 @@ Small python script to calculate white pixels proportion in an image from a blac
 > You can install pip with `python3 -m ensurepip --upgrade` or `sudo apt install python3-pip`
 
 ```bash
-pip install cv2
+pip install opencv-python
 pip install numpy
 ```
 
