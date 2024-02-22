@@ -6,10 +6,10 @@ Small python script to calculate white pixels proportion in an image from a blac
 ## Requirements
 
 > [!WARNING]
-> You need **python3** and **pip** to run this script.
+> You need `python3` and `pip` to run this script.
 
 > [!TIP]
-> If **pip** is not installed, you can install it with
+> If `pip` is not installed, you can install it with
 > ```bash
 > python3 -m ensurepip --upgrade
 > ```
